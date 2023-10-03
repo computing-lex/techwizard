@@ -15,5 +15,9 @@
 4. Upgradable armour system
    - Able to upgrade and modify armour using collected items
 
+5. Defined map
+   - Map is based on preset scenes
+  
+
 ### Code Flow
   - Upgrade system that works with any equippable item
